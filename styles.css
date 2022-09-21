@@ -1,0 +1,240 @@
+
+.div{
+    width: 100vw;
+}
+body{
+    margin: 0;
+}
+
+.header__logo {
+    margin: 0;
+    font-size: 62px;
+    padding-right: 5px;
+}
+
+.container__first-block {
+    background: url("test.jpg") no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 741px;
+}
+
+.header {
+    max-width: 64%;
+    min-width: 64%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: auto;
+    padding: 20px 0;
+
+
+
+}
+.header__wrapper {
+    border-bottom: 1px solid grey;
+}
+.h1-size{
+    font-size: 55px;
+    font-family: Arial;
+    margin: 0;
+    padding-left: 350px;
+    padding-top: 50px;
+}
+
+.span {
+    color: royalblue;
+}
+.header__textblue{
+    color: dodgerblue;
+    font-size: 11px;
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.header__buttons{
+    padding-left: 190px;
+    font-size: 20px;
+}
+.buttons{
+ padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.button__head{
+
+}
+.button{
+    padding: 10px 35px;
+    font-size: 20px;
+    color: blue;
+    border-radius: 8px;
+    border-color: royalblue;
+}
+.mini-text{
+    font-size: 24px;
+    color: royalblue;
+}
+.numbers{
+    font-size: 29px;
+    color: royalblue;
+}
+.mini__text{
+    color: black;
+    font-weight: normal;
+
+
+
+}
+.aboba{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    margin-top: 50px;
+
+
+}
+.img-text{
+    width: 700px;
+    margin: 0;
+    justify-content: space-between;
+    display: flex;
+
+}
+.img-style{
+    width: 123px;
+    height: 123px;
+    border-radius: 50%;
+
+
+}
+.first-img-text{
+    display: flex;
+    margin-left: 400px;
+    align-items: center;
+}
+.second-img-text{
+    display: flex;
+    margin-left: 190px;
+}
+.Bruce__Bolger{
+    width: 420px;
+    font-size: 25px;
+    color: dodgerblue;
+    font-weight: bold;
+    font-family: Arial;
+    display: flex;
+    flex-direction: row;
+}
+
+.Bruce__Bolger h1 {
+    margin: 0;
+    font-size: 26px;
+    color: dodgerblue;
+}
+
+.card__rightside_text {
+    margin-lefT: 10px;
+}
+
+.Bruce-secondtext{
+    font-size: 20px;
+    color: gray;
+    font-weight: normal;
+    margin: 10px 0;
+}
+.Ivan-Ivanov h1{
+    margin: 0;
+    font-size: 26px;
+    color: black;
+}
+.Ivan-Ivanov{
+    width: 520px;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial;
+    /*padding-left: 20px;*/
+    /*padding-top: 25px;*/
+    display: flex;
+    flex-direction: row;
+}
+
+.Ivan-secondtext{
+    font-size: 20px;
+    color: gray;
+    font-weight: normal;
+}
+
+.Bruce-thirdtext{
+    color: black;
+    font-size: 24px;
+    font-weight: normal;
+    font-family: Arial;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.card__wrapper {
+    display: flex;
+    flex-direction: column;
+    background: #F7F8F7;
+    /*padding: 40px 30px;*/
+    padding: 5px;
+}
+.button__bottom{
+    background-color: dodgerblue;
+    border-radius: 8px;
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+    border: none;
+    width: 250px;
+    height: 59px;
+    margin-top: 70px;
+
+}
+.bottom-button{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.h1__clients{
+    font-size: 45px;
+    font-family: Arial;
+}
+.blueh1{
+    color: dodgerblue;
+}
+.h1__div{
+    margin-left: 400px;
+    display: flex;
+    margin-top: 140px;
+
+}
+
+.h1__div2{
+    font-size: 25px;
+
+}
+.h1__div22{
+    display: flex;
+    
+    justify-content: center;
+    border: 2px solid lightblue;
+    margin-left: 150px;
+
+}
+.h1__div2 p {
+    padding-top: 10px;
+}
+.div_p{
+    font-weight: normal;
+    font-size: 25px;
+}
+
